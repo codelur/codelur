@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Salvador Sanchez</h1>
-<h3 align="center">A passionate Full Stack developer from USA/Spain</h3>
+<h3 align="center">A passionate Full Stack developer from USA/Spain Google </h3>![image](https://github.com/user-attachments/assets/d9caa0f1-3b72-4eaf-bd4c-7f74f215ecfa)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codelur" alt="codelur" /></a> </p>
 
+<h2 align="center">About me </h2>
+<p>As a passionate Full Stack Developer, I thrive at the intersection of creativity and technology. I bring a deep understanding of both front-end and back-end development, leveraging modern tools to build scalable, user-focused applications. My love for solving complex problems is fueled by my passion for video games, where I immerse myself in challenges and innovation.
+
+Beyond coding, I’m an avid traveler, constantly inspired by diverse cultures and new perspectives, which I bring into my work to create globally conscious solutions. I also dedicate time to charity events, where my teamwork and leadership skills shine as I help organize and contribute to community-driven initiatives.
+
+I’m always looking to grow, whether it’s improving the digital experience through code or giving back to causes that matter. My diverse interests and skills make me a versatile developer, ready to tackle new challenges in any environment.</p>
+<br>
 - 🌱 I’m currently learning **AI, ReactJS, Python, Spring Boot**
 
 - 👯 I’m looking to collaborate on **amazing Java Projects**
