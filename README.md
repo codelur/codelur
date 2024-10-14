@@ -4,6 +4,7 @@
 <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/us.png" alt="USA"> </h3> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codelur" alt="codelur" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=codelur](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-1)" alt="codelur" /></a> </p>
 
 <h2 align="center">About me </h2>
 <p>As a passionate Full Stack Developer, I thrive at the intersection of creativity and technology. I bring a deep understanding of both front-end and back-end development, leveraging modern tools to build scalable, user-focused applications. My love for solving complex problems is fueled by my passion for video games, where I immerse myself in challenges and innovation.
