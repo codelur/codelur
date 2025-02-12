@@ -12,11 +12,11 @@ Beyond coding, I’m an avid traveler, constantly inspired by diverse cultures a
 
 I’m always looking to grow, whether it’s improving the digital experience through code or giving back to causes that matter. My diverse interests and skills make me a versatile developer, ready to tackle new challenges in any environment.</p>
 <br>
-- 🌱 I’m currently learning **AI, ReactJS, Python, Spring Boot**
+- 🌱 I’m currently learning **AI, Golang, Python**
 
-- 👯 I’m looking to collaborate on **amazing Java Projects**
+- 👯 I’m looking to collaborate on **Full Stack / Java Projects**
 
-- 💬 Ask me about **Java, Full Stack Development, Data structures, Algorithms, Video gr**
+- 💬 Ask me about **Java, RESTful API, Full Stack Development, Data structures, SQL, noSQL, OOP, Algorithms**
 
 - 📫 How to reach me **codelur@gmail.com**
 
