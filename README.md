@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Salvador Sanchez</h1> 
-<h3 align="center">A passionate Full Stack developer from USA/Spain <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/es.png" alt="Spain">
-<img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/us.png" alt="USA"> </h3> 
-
+<h3 align="center">A passionate Full Stack developer from USA/Spain </h3> 
+<div align="center">
+<img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/es.png" alt="Spain">
+<img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/us.png" alt="USA"> 
+</div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codelur" alt="codelur" /></a> </p>
 
 <h2 align="center">About me </h2>
